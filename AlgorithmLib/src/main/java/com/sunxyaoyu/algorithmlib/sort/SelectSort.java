@@ -1,4 +1,4 @@
-package com.sunxyaoyu.algorithmlib;
+package com.sunxyaoyu.algorithmlib.sort;
 
 /**
  * 蛮力法----选择排序
