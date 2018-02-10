@@ -51,7 +51,7 @@ public class RadixSort {
 
 
     /**
-     * 麻将实体类11
+     * 麻将实体类
      */
     public static class MaHjong{
 
