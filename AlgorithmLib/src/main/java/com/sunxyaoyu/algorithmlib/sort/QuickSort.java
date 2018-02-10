@@ -19,7 +19,7 @@ public class QuickSort {
      * @param end
      */
     public static void quickSort(int[] array, int begin, int end){
-        if (end-begin<=1) return;
+        if (end-begin<=0) return;
         int x = array[begin];
         int low = begin;
         int high = end;
