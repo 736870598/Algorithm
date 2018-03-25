@@ -7,7 +7,7 @@ package com.sunxyaoyu.algorithmlib.search;
  * Created by Sunxy on 2018/3/4.
  */
 
-public class Dfs {
+public class DFS {
 
     public static boolean dfs(int x,int y){
         if (map[endX][endY] == 2){
