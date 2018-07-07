@@ -122,7 +122,7 @@ public class AStar {
                 result.add(new P(p.x+1,p.y-1));
             }
             if(map[p.x][p.y-1]!=3 && map[p.x][p.y-1]!=1){//左
-                result.add(new P(p.x,p.y-1));
+                result.add(new  P(p.x,p.y-1));
             }
             if(map[p.x-1][p.y-1]!=3 && map[p.x-1][p.y-1]!=1){//左上
                 result.add(new P(p.x-1,p.y-1));

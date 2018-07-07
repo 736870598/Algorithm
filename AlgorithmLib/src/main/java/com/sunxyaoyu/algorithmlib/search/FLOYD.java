@@ -3,7 +3,7 @@ package com.sunxyaoyu.algorithmlib.search;
 /**
  *
  * 弗洛伊达算法，
- * 求俩点中间最短距离，用于公交系统/铁路站点等等
+ * 求俩点中间最短距离，用于公交系统/铁路站点等等静态计算
  *
  * Created by Sunxy on 2018/3/25.
  */
