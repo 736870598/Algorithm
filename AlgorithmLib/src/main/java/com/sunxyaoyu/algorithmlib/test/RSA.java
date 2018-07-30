@@ -1,4 +1,4 @@
-package com.sunxyaoyu.algorithmlib;
+package com.sunxyaoyu.algorithmlib.test;
 
 import java.security.Key;
 import java.security.KeyPair;
